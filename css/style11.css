@@ -300,6 +300,10 @@ display: none;
         grid-template-columns: 1fr;
 
     }
+    .cardList .card{
+        width:100%;
+        margin:10px auto;
+    }
     .project-card{
         width: 100%;
         margin: 10px auto;
