@@ -128,7 +128,7 @@ transition: 0.7s ease;
 }
 .card {
     background-color: #fff;
-    width: 340px;
+    width: 320px;
     box-shadow: 0 5px 25px rgba(1 1 1 /15%);
     border-radius: 10px;
     padding: 25px;
@@ -216,6 +216,7 @@ margin: 10px;
 
 .contact .icon{
     font-size: 4.5em;
+    text-align: center;
 }
 
 .contact .info h3 {
